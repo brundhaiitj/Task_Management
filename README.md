@@ -3,7 +3,7 @@ Task management with priority and dependency
 
 # Task Management System
 
-This Python code implements a simple task management system using a priority queue. It allows users to:
+This Python code implements a task management system using a priority queue. It allows users to:
 
 - Add tasks with descriptions, activities, time requirements, due dates, work dates, start and end times, priorities, and dependencies.
 - Complete tasks based on priority and dependencies.
